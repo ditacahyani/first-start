@@ -13,3 +13,5 @@ file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R-7.
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+![Alt text](file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R.webarchive"Optional title")
+
