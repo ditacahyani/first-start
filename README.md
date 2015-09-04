@@ -10,3 +10,5 @@ file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R-4.
 file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R-5.webarchive
 file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R-6.webarchive
 file:///Users/ditacahyani/Desktop/R/Code%20School/Code%20School%20-%20Try%20R-7.webarchive
+![GitHub Logo](/images/logo.png)
+
